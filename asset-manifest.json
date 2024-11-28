@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ketthucmon-Danh/static/css/main.8d2552c8.css",
+    "main.js": "/Ketthucmon-Danh/static/js/main.afd5c195.js",
+    "index.html": "/Ketthucmon-Danh/index.html",
+    "main.8d2552c8.css.map": "/Ketthucmon-Danh/static/css/main.8d2552c8.css.map",
+    "main.afd5c195.js.map": "/Ketthucmon-Danh/static/js/main.afd5c195.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d2552c8.css",
+    "static/js/main.afd5c195.js"
+  ]
+}
